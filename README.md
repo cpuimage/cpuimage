@@ -6,7 +6,7 @@ I write open source projects about audio and image algorthms in github.
 
 If you like my open source projects, and useful for you，
 
-please consider [buying me a coffee](https://www.paypal.com/paypalme/cpuimage/).
+please consider [buying me a coffee](https://www.paypal.com/paypalme/cpuimage/5.0).
 
 Thank you for your support!
 
