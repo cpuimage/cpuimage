@@ -1,6 +1,6 @@
 ### Hey 👋🏽, I'm [cpuimage](https://www.cnblogs.com/cpuimage)
 
-Hi, I'm ZhiHan Gao, a freelancer from Shenzhen China.
+Hi, I'm ZhiHan Gao, a freelancer from Shantou China.
 
 I write open source projects about audio and image algorthms in github. 
 
