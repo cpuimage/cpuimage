@@ -14,8 +14,8 @@ Thank you for your support!
 
 - 👨🏽‍💻 I lost my job in 2020 and now I am a freelancer
 - 🌱 I’m currently learning Deep Learning
-    - [√] A Trimap-Free Solution for Real-Time Automatic Portrait Matting on Mobile Devices
-    - [x] Image Synthesis and Semantic Manipulation Using Generative Adversarial Networks
+    - [x] A Trimap-Free Solution for Real-Time Automatic Portrait Matting on Mobile Devices
+    - [ ] Image Synthesis and Semantic Manipulation Using Generative Adversarial Networks
 - 👯 I’m looking to collaborate on audio and image algorithms
 - 🤔 I’m looking for help with algorithm development
 - 💬 Ask me about anything, I am happy to help
