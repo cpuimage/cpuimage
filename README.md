@@ -17,8 +17,7 @@ Thank you for your support!
     - [x] A Trimap-Free Solution for Real-Time Automatic Portrait Matting on Mobile Devices
     - [ ] Image Synthesis and Semantic Manipulation Using Generative Adversarial Networks
 - 👯 I’m looking to collaborate on audio and image algorithms
-    - 📫 Reach me on wechat: cpuimage
-- 🤔 I’m looking for help with algorithm development
+    - 🤔 Reach me on wechat: cpuimage
 - 💬 Ask me about anything, I am happy to help
     - 📫 Reach me on mail: gaozhihan@vip.qq.com
 
