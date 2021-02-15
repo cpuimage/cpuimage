@@ -20,7 +20,8 @@ Thank you for your support!
     * Statistical Algorithms  
          - [x] Real time and embedded implementation of speech enhancement algorithms based on Minimum Mean-Square Error Short-Time Spectral Amplitude estimation (MMSE-STSA)
 - 👯 I’m looking to collaborate on audio and image algorithms
-    - 🤔 Reach me on wechat: cpuimage
+    - 🤔 Reach me on WeChat or Telegram: cpuimage
+    
 - 💬 Ask me about anything, I am happy to help
     - 📫 Reach me on mail: gaozhihan@vip.qq.com
 
