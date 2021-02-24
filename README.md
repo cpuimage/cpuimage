@@ -1,6 +1,6 @@
 ### Hey 👋🏽, I'm [cpuimage](https://www.cnblogs.com/cpuimage)
 
-Hi, I'm ZhiHan Gao, a freelancer from Shantou China.
+Hi, I'm ZhiHan Gao and I live in Hangzhou, China.
 
 I write open source projects about audio and image algorthms in github. 
 
@@ -13,7 +13,7 @@ Thank you for your support!
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I lost my job in 2020 and now I am a freelancer
-- 🌱 i’m currently working on  
+- 🌱 I’m currently working on  
     * Deep Learning  
          - [x] A Trimap-Free Solution for Real-Time Automatic Portrait Matting on Mobile Devices
          - [ ] Image Synthesis and Semantic Manipulation Using Generative Adversarial Networks
