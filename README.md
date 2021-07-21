@@ -12,7 +12,6 @@ Thank you for your support!
 
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I lost my job in 2020 and now I am a freelancer
 - 🌱 I’m currently working on  
     * Deep Learning  
          - [x] A Trimap-Free Solution for Real-Time Automatic Portrait Matting on Mobile Devices
