@@ -12,6 +12,7 @@ Thank you for your support!
 
 **Talking about Personal Stuffs:**
 
+- 👨🏽‍💻 I have worked for Baidu, KingSoft, etc.
 - 🌱 I’m currently working on  
     * Deep Learning  
          - [x] A Trimap-Free Solution for Real-Time Automatic Portrait Matting on Mobile Devices
