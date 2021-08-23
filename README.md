@@ -23,7 +23,7 @@ Thank you for your support!
 - 👯 I’m looking to collaborate on audio and image algorithms
     - 🤔 Reach me on WeChat or Telegram: cpuimage
     
-- 💬 Ask me about anything, I am happy to help
+- 💬 Any paid solution or consultation
     - 📫 Reach me on mail: gaozhihan@vip.qq.com
 
 ![cpuimage's github stats](https://github-readme-stats.vercel.app/api?username=cpuimage&show_icons=true&hide_border=true)
