@@ -16,7 +16,8 @@ Thank you for your support!
 - 🌱 I’m currently working on  
     * Deep Learning  
          - [x] A Trimap-Free Solution for Real-Time Automatic Portrait Matting on Mobile Devices
-         - [x] A Adaptive Learning Rate Solution for Deep Learning
+         - [x] A Adaptive Optimizer for Accelerated Training Convergence in Deep Learning
+         - [x] A General and Adaptive Robust Loss Structure Scheme 
          - [ ] Image Synthesis and Semantic Manipulation Using Generative Adversarial Networks
     * Statistical Algorithms  
          - [x] Real time and embedded implementation of speech enhancement algorithms based on Minimum Mean-Square Error Short-Time Spectral Amplitude estimation (MMSE-STSA)
