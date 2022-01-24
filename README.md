@@ -16,7 +16,7 @@ Thank you for your support!
 - 🌱 I’m currently working on  
     * Deep Learning  
          - [x] A Trimap-Free Solution for Real-Time Automatic Portrait Matting on Mobile Devices
-         - [x] A Adaptive Optimizer for Accelerated Training Convergence in Deep Learning
+         - [x] A Robust Optimizer for Accelerated Training Convergence in Deep Learning
          - [x] A General and Adaptive Robust Loss Structure Scheme 
          - [ ] Image Synthesis and Semantic Manipulation Using Generative Adversarial Networks
     * Statistical Algorithms  
