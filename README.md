@@ -19,7 +19,7 @@ Thank you for your support!
          - [x] A Robust Optimizer for Accelerated Training Convergence in Deep Learning
          - [x] A General and Adaptive Robust Loss Structure Scheme 
          - [x] A Robust Loss Weighting Solution For Learning Long-Tail Data
-         - [ ] Image Synthesis and Semantic Manipulation Using Generative Adversarial Networks
+         - [ ] Image Synthesis and Semantic Manipulation Using Diffusion Networks
     * Statistical Algorithms  
          - [x] Real time and embedded implementation of speech enhancement algorithms based on Minimum Mean-Square Error Short-Time Spectral Amplitude estimation (MMSE-STSA)
 - 👯 I’m looking to collaborate on audio and image algorithms
