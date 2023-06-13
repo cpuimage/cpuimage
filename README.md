@@ -22,6 +22,7 @@ Thank you for your support!
          - [x] Image Synthesis and Semantic Manipulation Using Stable Diffusion Networks
          - [x] Stable Diffusion Architecture Optimization And Deployment On Mobile Devices
          - [x] A Robust Solution For Accelerated Training Convergence And Learning Long-Tail Data
+         - [x] A Arbitrary Resolution Super Resolution Solution for Real World 
          - [ ] Stable Diffusion Accelerated Training And Inference Deployment Optimization
     * Statistical Algorithms  
          - [x] Real time and embedded implementation of speech enhancement algorithms based on Minimum Mean-Square Error Short-Time Spectral Amplitude estimation (MMSE-STSA)
