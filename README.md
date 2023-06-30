@@ -34,4 +34,6 @@ Thank you for your support!
 - 💬 Any paid technical service or solution consulting
     - 📫 Reach me on mail: gaozhihan@vip.qq.com
 
-![cpuimage's github stats](https://github-readme-stats.vercel.app/api?username=cpuimage&show_icons=true&hide_border=true)
+<a href="https://github.com/cpuimage/cpuimage">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=cpuimage" />
+</a>
