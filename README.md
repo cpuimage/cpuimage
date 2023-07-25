@@ -24,6 +24,7 @@ Thank you for your support!
          - [x] A Robust Solution For Accelerated Training Convergence And Learning Long-Tail Data
          - [x] A Arbitrary Resolution Super Resolution Solution for Real World
          - [x] Accelerate Stable Diffusion FP16 Inference Deployment Optimization with TensorRT
+         - [x] Translate Stable Diffusion X4 Upscaler To TensorFlow And Support FP16 Inference Deployment
          - [ ] Stable Diffusion Architectural Removal and Distillation
     * Statistical Algorithms  
          - [x] Real time and embedded implementation of speech enhancement algorithms based on Minimum Mean-Square Error Short-Time Spectral Amplitude estimation (MMSE-STSA)
