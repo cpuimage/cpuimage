@@ -25,6 +25,7 @@ Thank you for your support!
          - [x] A Arbitrary Resolution Super Resolution Solution for Real World
          - [x] Accelerate Stable Diffusion FP16 Inference Deployment Optimization with TensorRT
          - [x] Port Stable Diffusion X4 Upscaler To TensorFlow And Support FP16 Inference Deployment
+         - [x] Port Stable Diffusion PromptGen (GPT2) To TensorFlow And Support ONNX Inference Deployment
          - [x] Improve Batch Normalization for Robust Training and Inference
          - [ ] Stable Diffusion Architectural Distillation
     * Statistical Algorithms  
