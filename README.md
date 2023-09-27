@@ -27,7 +27,9 @@ Thank you for your support!
          - [x] Port Stable Diffusion X4 Upscaler To TensorFlow And Support FP16 Inference Deployment
          - [x] Port Stable Diffusion PromptGen (GPT2) To TensorFlow And Support ONNX Inference Deployment
          - [x] Improve Batch Normalization for Robust Training and Inference
-         - [ ] Stable Diffusion Architectural Distillation
+         - [x] Stable Diffusion Architectural Distillation
+         - [x] Content-aware 3-view synthesis base on Stable Diffusion
+         - [ ] Video Editing techniques based on Stable Diffusion
     * Statistical Algorithms  
          - [x] Real time and embedded implementation of speech enhancement algorithms based on Minimum Mean-Square Error Short-Time Spectral Amplitude estimation (MMSE-STSA)
 - 👯 I’m looking to collaborate on audio and image algorithms
