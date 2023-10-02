@@ -29,6 +29,7 @@ Thank you for your support!
          - [x] Improve Batch Normalization for Robust Training and Inference
          - [x] Stable Diffusion Architectural Distillation
          - [x] Content-aware 3-view synthesis base on Stable Diffusion
+         - [ ] LoRA TensorFlow 2 Implementation For Fine-Tuning Stable Diffusion
          - [ ] Video Editing techniques based on Stable Diffusion
     * Statistical Algorithms  
          - [x] Real time and embedded implementation of speech enhancement algorithms based on Minimum Mean-Square Error Short-Time Spectral Amplitude estimation (MMSE-STSA)
