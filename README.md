@@ -28,7 +28,8 @@ Thank you for your support!
          - [x] Port Stable Diffusion PromptGen (GPT2) To TensorFlow And Support ONNX Inference Deployment
          - [x] Improve Batch Normalization for Robust Training and Inference
          - [x] Stable Diffusion Architectural Distillation
-         - [x] Content-aware 3-view synthesis base on Stable Diffusion
+         - [x] Content-aware 3-view synthesis based on Stable Diffusion
+         - [x] Super Resolution Solution based on Stable Diffusion
          - [x] Video Editing techniques based on Stable Diffusion
          - [x] Port Stable Diffusion XL 1.0 To TensorFlow And Support FP16 Inference Deployment
          - [ ] Stable Diffusion V1.5 And XL Inference With PyTorch Weights And More Features Like Stable Diffusion Web UI In TensorFlow
