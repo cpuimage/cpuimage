@@ -40,11 +40,12 @@ Thank you for your support!
          - [x] Real time and embedded implementation of speech enhancement algorithms based on Minimum Mean-Square Error Short-Time Spectral Amplitude estimation (MMSE-STSA)
 - 👯 I’m looking to collaborate on audio and image algorithms
      - 🤔 Reach me on 
-     1. WeChat: DbgMonks 
-     2. QQ: 200759103
-     3. Telegram: cpuimage
+          - [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=flat&logo=telegram&logoColor=white)](https://t.me/cpuimage)
+          - ![Wechat Badge](https://img.shields.io/badge/DbgMonks-7BB32E?style=flat&logo=wechat&logoColor=white)
+          - ![QQ Badge](https://img.shields.io/badge/200759103-blue?style=flat&logo=tencent-qq&logoColor=white)
 - 💬 Any paid technical service or solution consulting
-    - 📫 Reach me on mail: gaozhihan@vip.qq.com
+    - 📫 Reach me on mail:
+       - [![mail Badge](https://img.shields.io/badge/gaozhihan@vip.qq.com-D14836?logo=gmail&logoColor=white)](mailto:gaozhihan@vip.qq.com)
 
 <a href="https://github.com/cpuimage/cpuimage">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=cpuimage" />
