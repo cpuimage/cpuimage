@@ -34,7 +34,6 @@ Thank you for your support!
          - [x] Port Stable Diffusion XL 1.0 To TensorFlow And Support FP16 Inference Deployment
          - [x] A Plug-And-Play Algorithm For Asynchronous Inference With Frequency-Domain Decomposable Reconstruction For Arbitrary Visual Scenes
          - [ ] Stable Diffusion V1.5 And XL Inference With PyTorch Weights And More Features Like Stable Diffusion Web UI In TensorFlow
-         - [ ] LoRA TensorFlow 2 Implementation For Fine-Tuning Stable Diffusion
                
     * Statistical Algorithms  
          - [x] Real time and embedded implementation of speech enhancement algorithms based on Minimum Mean-Square Error Short-Time Spectral Amplitude estimation (MMSE-STSA)
