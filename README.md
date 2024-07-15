@@ -1,6 +1,6 @@
 ### Hey 👋🏽, I'm [cpuimage](https://www.cnblogs.com/cpuimage)
 
-Hi, I am ZhiHan Gao, a native of Shantou, now living in Guangzhou, China.
+Hi, I am ZhiHan Gao, living in Shantou, China.
 
 I write open source projects about audio and image algorthms in github. 
 
