@@ -34,6 +34,7 @@ Thank you for your support!
          - [x] Port Stable Diffusion XL 1.0 To TensorFlow And Support FP16 Inference Deployment
          - [x] A Plug-And-Play Algorithm For Asynchronous Inference With Frequency-Domain Decomposable Reconstruction For Arbitrary Visual Scenes
          - [x] ~~Stable Diffusion Inference With PyTorch Weights And More Features Like Stable Diffusion Web UI In Keras 3.x~~
+         - [ ] LLM from Scratch with PyTorch
          - [ ] Port FLUX.1 To Keras 3.x
          - [ ] FLUX.1 Support FP16 Inference Deployment and Low Memory Lora Training In PyTorch
     * Statistical Algorithms  
