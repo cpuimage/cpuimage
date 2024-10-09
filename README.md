@@ -37,6 +37,7 @@ Thank you for your support!
          - [x] FLUX.1 Support FP16 Inference Deployment and Low Memory Lora Training In PyTorch
          - [ ] LLM from Scratch with PyTorch
             - [x] A Robust Solution for Repetition Problem in Text Generation
+            - [x] A Single-GPU Solution to Simulate Mega-Batch-Size Training without Any Accuracy Loss
          - [ ] Port FLUX.1 To Keras 3.x
     * Statistical Algorithms  
          - [x] Real time and embedded implementation of speech enhancement algorithms based on Minimum Mean-Square Error Short-Time Spectral Amplitude estimation (MMSE-STSA)
