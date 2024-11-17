@@ -36,7 +36,8 @@ Thank you for your support!
          - [x] ~~Stable Diffusion Inference With PyTorch Weights And More Features Like Stable Diffusion Web UI In Keras 3.x~~
          - [x] FLUX.1 Support FP16 Inference Deployment and Low Memory Lora Training In PyTorch
          - [x] LLM from Scratch with PyTorch
-         - [ ] Enhanced FaceFusion: Decoupled Modules and Optimized Inference for Visual Performance
+         - [x] Enhanced FaceFusion: Decoupled Modules and Optimized Inference for Visual Performance
+         - [ ] Ultra High-Resolution Portrait Retouching
     * Statistical Algorithms  
          - [x] Real time and embedded implementation of speech enhancement algorithms based on Minimum Mean-Square Error Short-Time Spectral Amplitude estimation (MMSE-STSA)
 - 👯 I’m looking to collaborate on audio and image algorithms
