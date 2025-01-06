@@ -2,18 +2,20 @@
 
 Hi, I am ZhiHan Gao, living in Shantou, China.
 
-I write open source projects about audio and image algorthms in github. 
+I specialize in developing audio, video, and image processing algorithms, and I share my open-source projects on GitHub. If you find my projects useful, please consider [buying me a coffee](https://www.paypal.com/paypalme/cpuimage/5.0). Your support is greatly appreciated!
 
-If you like my open source projects, and useful for you，
+**Professional Experience**
 
-please consider [buying me a coffee](https://www.paypal.com/paypalme/cpuimage/5.0).
-
-Thank you for your support!
-
-**Talking about Personal Stuffs:**
-
-- 👨🏽‍💻 I have worked for Baidu, KingSoft, etc.
-- 🌱 I’m currently working on  
+- 👨🏽‍💻 I have worked at leading tech companies including [Baidu](https://www.baidu.com/), [KingSoft](https://www.ijinshan.com/), and more.
+- 📱 Developed algorithms for multiple applications:
+  * [ToolWiz Photos](https://play.google.com/store/apps/details?id=com.btows.photo)
+  * [Mypic-AI Make up Master](https://play.google.com/store/apps/details?id=com.memepick.mypic)
+  * [DOUPAI](https://www.doupai.cc/)
+- 💡Delivered AI-based technical customization services and successfully implemented and delivered several AI projects.
+  
+**Research Progress and Achievements**
+  
+- 🌱 Here are some of my past research endeavors and achievements in deep learning and statistical algorithms:
     * Deep Learning  
          - [x] A Trimap-Free Solution for Real-Time Automatic Portrait Matting on Mobile Devices
          - [x] A Robust Optimizer With Normalized Accelerated Convergence Capability in Deep Learning
@@ -38,9 +40,12 @@ Thank you for your support!
          - [x] LLM from Scratch with PyTorch
          - [x] Enhanced FaceFusion: Decoupled Modules and Optimized Inference for Visual Performance
          - [x] Ultra High-Resolution Portrait Retouching
-         - [ ] Training-Free Universal High-Resolution Synthesis for Any Video Model
+         - [ ] Training-Free Universal High-Resolution Synthesis for Any Video Model (in progress)
     * Statistical Algorithms  
          - [x] Real time and embedded implementation of speech enhancement algorithms based on Minimum Mean-Square Error Short-Time Spectral Amplitude estimation (MMSE-STSA)
+   
+**Collaboration and Contact**
+
 - 👯 I’m looking to collaborate on audio and image algorithms
      - 🤔 Reach me on 
           - [![Telegram Badge](https://img.shields.io/badge/cpuimage-blue?style=flat&logo=telegram&logoColor=white)](https://t.me/cpuimage)
