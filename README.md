@@ -41,6 +41,7 @@ I specialize in developing audio, video, and image processing algorithms, and I 
          - [x] Enhanced FaceFusion: Decoupled Modules and Optimized Inference for Visual Performance
          - [x] Ultra High-Resolution Portrait Retouching
          - [x] Training-Free Universal High-Resolution Synthesis for Any Video Model
+         - [x] Chunked Flash Attention in Keras
          - [ ] Optimizing Lora Training and Accelerating Inference for FLUX.1 (in progress)
     * Statistical Algorithms  
          - [x] Real time and embedded implementation of speech enhancement algorithms based on Minimum Mean-Square Error Short-Time Spectral Amplitude estimation (MMSE-STSA)
