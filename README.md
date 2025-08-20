@@ -18,7 +18,7 @@ I specialize in developing audio, video, and image processing algorithms, and I 
 - 🌱 Here are some of my past research endeavors and achievements in deep learning and statistical algorithms:
     * Deep Learning  
          - [x] A Trimap-Free Solution for Real-Time Automatic Portrait Matting on Mobile Devices
-         - [x] A Robust Optimizer With Accelerated Convergence Capability in Deep Learning
+         - [x] ~~A Robust Optimizer With Accelerated Convergence Capability in Deep Learning~~
          - [x] ~~A General and Adaptive Robust Loss Structure Scheme~~
          - [x] ~~A Robust Loss Weighting Solution For Learning Long-Tail Data~~
          - [x] Image Synthesis and Semantic Manipulation Using Stable Diffusion Networks
@@ -42,6 +42,7 @@ I specialize in developing audio, video, and image processing algorithms, and I 
          - [x] Ultra High-Resolution Portrait Retouching
          - [x] Training-Free Universal High-Resolution Synthesis for Any Video Model
          - [x] Chunked Flash Attention in Keras
+         - [x] Robust & Fast-Convergent Optimizer for Long-Tailed Learning in Deep Neural Networks
          - [ ] Optimizing Lora Training and Accelerating Inference for FLUX.1 (in progress)
     * Statistical Algorithms  
          - [x] Real time and embedded implementation of speech enhancement algorithms based on Minimum Mean-Square Error Short-Time Spectral Amplitude estimation (MMSE-STSA)
