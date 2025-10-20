@@ -42,7 +42,8 @@ I specialize in developing audio, video, and image processing algorithms, and I 
          - [x] Ultra High-Resolution Portrait Retouching
          - [x] Training-Free Universal High-Resolution Synthesis for Any Video Model
          - [x] Chunked Flash Attention in Keras
-         - [x] Memory-Efficient Ultra-Large-Batch Optimizer Enabling Robust, Fast-Convergent Learning
+         - [x] Robust Training, Effortless Convergence: An Adaptive, Memory-Efficient Optimizer without Warmup
+         - [x] Loss Regularization: A Novel Approach to Enhance Model Generalization and Convergence
          - [ ] Next-SD1.5 (StableDiffusion 1.5): Community-Forged, Re-architected, Reinvented, Resolved (in progress)
     * Statistical Algorithms  
          - [x] Real time and embedded implementation of speech enhancement algorithms based on Minimum Mean-Square Error Short-Time Spectral Amplitude estimation (MMSE-STSA)
