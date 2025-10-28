@@ -28,7 +28,6 @@ I specialize in developing audio, video, and image processing algorithms, and I 
          - [x] Accelerate Stable Diffusion FP16 Inference Deployment Optimization with TensorRT
          - [x] Port Stable Diffusion X4 Upscaler To TensorFlow And Support FP16 Inference Deployment
          - [x] Port Stable Diffusion PromptGen (GPT2) To TensorFlow And Support ONNX Inference Deployment
-         - [x] ~~Improve Batch Normalization for Robust Training and Inference~~
          - [x] Stable Diffusion Architectural Distillation
          - [x] Content-aware 3-view synthesis based on Stable Diffusion in Game Art
          - [x] Super Resolution Solution based on Stable Diffusion
@@ -50,6 +49,7 @@ I specialize in developing audio, video, and image processing algorithms, and I 
          - [x] Loss Regularization: A Novel Approach to Enhance Model Generalization and Convergence
          - [x] A Simple Yet Effective Approach to Multi-Task Learning via Dynamic Loss Weighting
          - [x] A Parameter-Free Weight Regularization Approach
+         - [x] Towards Stable Batch Normalization via Adaptive Moving Averages
          - [ ] Next-SD1.5 (StableDiffusion 1.5): Community-Forged, Re-architected, Reinvented, Resolved (in progress)
     * Statistical Algorithms  
          - [x] Real time and embedded implementation of speech enhancement algorithms based on Minimum Mean-Square Error Short-Time Spectral Amplitude estimation (MMSE-STSA)
