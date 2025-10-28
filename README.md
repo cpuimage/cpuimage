@@ -49,6 +49,7 @@ I specialize in developing audio, video, and image processing algorithms, and I 
            - [x] Long-Tailed Gradient Mitigation
          - [x] Loss Regularization: A Novel Approach to Enhance Model Generalization and Convergence
          - [x] A Simple Yet Effective Approach to Multi-Task Learning via Dynamic Loss Weighting
+         - [x] A Parameter-Free Weight Regularization Approach
          - [ ] Next-SD1.5 (StableDiffusion 1.5): Community-Forged, Re-architected, Reinvented, Resolved (in progress)
     * Statistical Algorithms  
          - [x] Real time and embedded implementation of speech enhancement algorithms based on Minimum Mean-Square Error Short-Time Spectral Amplitude estimation (MMSE-STSA)
