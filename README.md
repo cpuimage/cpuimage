@@ -46,7 +46,7 @@ I specialize in developing audio, video, and image processing algorithms, and I 
            - [x] Stable Convergence Without a Warmup Phase
            - [x] Corrected Gradient Accumulation for Large-Batch Equivalent Performance
            - [x] Long-Tailed Gradient Mitigation
-           - [ ] Normalization-Free
+           - [x] Normalization-Free
          - [x] Loss Regularization: A Novel Approach to Enhance Model Generalization and Convergence
          - [x] A Simple Yet Effective Approach to Multi-Task Learning via Dynamic Loss Weighting
          - [x] A Parameter-Free Weight Regularization Approach
