@@ -48,7 +48,7 @@ I specialize in developing audio, video, and image processing algorithms, and I 
            - [x] Corrected Gradient Accumulation → Large-Batch-Equivalent Performance
            - [x] Long-Tailed Gradient Mitigation  
            - [x] Accelerated Convergence
-           - [ ] Memory-Efficient
+           - [x] Memory-Efficient
          - [x] Loss Regularization: A Novel Approach to Enhance Model Generalization and Convergence
          - [x] A Simple Yet Effective Approach to Multi-Task Learning via Dynamic Loss Weighting
          - [x] A Parameter-Free Weight Regularization Approach
