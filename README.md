@@ -53,6 +53,11 @@ I specialize in developing audio, video, and image processing algorithms, and I 
          - [x] A Simple Yet Effective Approach to Multi-Task Learning via Dynamic Loss Weighting
          - [x] A Parameter-Free Weight Regularization Approach
          - [x] Towards Stable Batch Normalization via Adaptive Moving Averages
+         - [x] AdamSage: An Adaptive Optimizer for Mixed-Precision and Large-Batch Training
+           - [x] Full PyTorch AdamW Inheritance — A drop-in replacement requiring zero code changes.
+           - [x] Corrected Gradient Accumulation — Delivers true large-batch-equivalent performance.
+           - [x] Learning-Rate-Free — Eliminates a critical hyperparameter.
+           - [x] Unified Closure & AMP GradScaler Support — Ensures seamless mixed-precision training.
          - [ ] Next-SD1.5 (StableDiffusion 1.5): Community-Forged, Re-architected, Reinvented, Resolved (in progress)
     * Statistical Algorithms  
          - [x] Real time and embedded implementation of speech enhancement algorithms based on Minimum Mean-Square Error Short-Time Spectral Amplitude estimation (MMSE-STSA)
