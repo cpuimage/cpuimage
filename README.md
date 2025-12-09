@@ -58,6 +58,8 @@ I specialize in developing audio, video, and image processing algorithms, and I 
            - [x] Corrected Gradient Accumulation — Delivers true large-batch-equivalent performance.
            - [x] Learning-Rate-Free — Eliminates a critical hyperparameter.
            - [x] Unified Closure & AMP GradScaler Support — Ensures seamless mixed-precision training.
+         - [ ] Memory-Efficient Training
+  
     * Statistical Algorithms  
          - [x] Real time and embedded implementation of speech enhancement algorithms based on Minimum Mean-Square Error Short-Time Spectral Amplitude estimation (MMSE-STSA)
    
