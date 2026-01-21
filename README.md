@@ -54,6 +54,7 @@ I specialize in developing audio, video, and image processing algorithms, and I 
          - [x] A Parameter-Free Weight Regularization Approach
          - [x] Towards Stable Batch Normalization via Adaptive Moving Averages
          - [x] LLM Memory-Efficient Training
+         - [x] Mitigating Numerical Instability in Training via Scalable Parallel Compensated Reductions in PyTorch
   
     * Statistical Algorithms  
          - [x] Real time and embedded implementation of speech enhancement algorithms based on Minimum Mean-Square Error Short-Time Spectral Amplitude estimation (MMSE-STSA)
