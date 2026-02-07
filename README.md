@@ -55,7 +55,7 @@ I specialize in developing audio, video, and image processing algorithms, and I 
          - [x] Towards Stable Batch Normalization via Adaptive Moving Averages
          - [x] LLM Memory-Efficient Training
          - [x] Mitigating Numerical Instability in Training via Scalable Parallel Compensated Reductions in PyTorch
-  
+         - [x] MozzyTokenizer: Adaptive Byte-level Tokenizer via Dynamic Encoding Selection
     * Statistical Algorithms  
          - [x] Real time and embedded implementation of speech enhancement algorithms based on Minimum Mean-Square Error Short-Time Spectral Amplitude estimation (MMSE-STSA)
    
