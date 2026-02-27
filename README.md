@@ -2,7 +2,7 @@
 
 Hi, I am **ZhiHan Gao**, living in Shantou, China.
 
-I specialize in **AIGC** and **audio/video/image algorithms**.  
+I specialize in **AIGC**, **inference optimization**, and **audio/video/image algorithms**.  
 I build practical AI systems, optimize models for real‑world deployment, and share my open‑source projects on GitHub.
 
 If you find my projects useful, please consider [buying me a coffee](https://www.paypal.com/paypalme/cpuimage/5.0). Your support is greatly appreciated!
@@ -14,6 +14,7 @@ If you find my projects useful, please consider [buying me a coffee](https://www
 - 👨🏽‍💻 Worked at leading tech companies including  
   **[Baidu](https://www.baidu.com/)**, **[KingSoft](https://www.ijinshan.com/)**, and others.
 - 🧩 Multi‑time **CTO** for AI companies (AIGC, image generation, inference optimization).
+- ⚙️ Specialized in **Stable Diffusion acceleration**, **edge‑side deployment**, and **training system engineering**.
 - 📱 Developed algorithms for multiple applications:
   - [ToolWiz Photos](https://play.google.com/store/apps/details?id=com.btows.photo)
   - [Mypic – AI Make up Master](https://play.google.com/store/apps/details?id=com.memepick.mypic)
@@ -74,7 +75,7 @@ I work across **Stable Diffusion**, **inference acceleration**, **training stabi
 
 ## 🤝 Collaboration & Contact | 合作与联系
 
-I’m open to collaboration on **AIGC** and **audio/image algorithms**.
+I’m open to collaboration on **AIGC**, **inference optimization**, and **audio/image algorithms**.
 
 Reach me on:
 
