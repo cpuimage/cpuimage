@@ -73,7 +73,8 @@ I work across **Stable Diffusion**, **inference acceleration**, **training stabi
 - Memory‑Efficient LLM Training
 - Numerical Stability via Scalable Parallel Compensated Reductions
 - MozzyTokenizer: Adaptive Byte‑Level Tokenizer
-
+- One-Pass LLM: From-Scratch Pre-training and SFT with Adaptive Gradient Modulation
+  
 ### 📊 Statistical Algorithms
 - Real‑time MMSE‑STSA speech enhancement (embedded implementation)
 
