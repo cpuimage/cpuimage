@@ -109,6 +109,9 @@ Reach me on:
 
 ---
 
-<a href="https://github.com/cpuimage/cpuimage">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=cpuimage&show_icons=true&theme=transparent" />
-</a>
+<div align="center">
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=cpuimage&theme=radical" />
+</div>
+<div align="center">
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=cpuimage&theme=radical&hide_border=true" /> 
+</div>
