@@ -101,11 +101,14 @@ I work across **Stable Diffusion**, **inference acceleration**, **training stabi
 I’m open to collaboration on **AIGC**, **inference optimization**, and **audio/image algorithms**.
 
 Reach me on:
+
 - [![Telegram Badge](https://img.shields.io/badge/cpuimage-blue?style=flat&logo=telegram&logoColor=white)](https://t.me/cpuimage)
 - ![Wechat Badge](https://img.shields.io/badge/DbgMonks-7BB32E?style=flat&logo=wechat&logoColor=white)
-- ![QQ Badge](https://img.shields.io/badge/200759103-blue?style=flat&logo=tencent-qq&logoColor=white)
+- ![QQ Badge](https://img.shields.io/badge/200759103-blue?style=flat&logo=qq&logoColor=white)
 
-[![mail Badge](https://img.shields.io/badge/gaozhihan@vip.qq.com-D14836?logo=gmail&logoColor=white)](mailto:gaozhihan@vip.qq.com)
+For paid technical services or consulting:
+
+- [![mail Badge](https://img.shields.io/badge/gaozhihan@vip.qq.com-D14836?logo=gmail&logoColor=white)](mailto:gaozhihan@vip.qq.com)
 
 ---
 
