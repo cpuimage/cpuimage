@@ -33,7 +33,7 @@ I work across **Stable Diffusion**, **inference acceleration**, **training stabi
 
 ### 🧠 大语言模型与逻辑建模 (LLMs & Reasoning)
 * **Efficient Semi-supervised Learning via Structural Regularization for Consistent Reasoning in LLMs**
-  * 基于结构性正则化，通过约束特征与 Logits 的演变一致性抑制“死记硬背”，提升半监督场景下的推理稳定性。
+  * 基于半监督结构性正则化，通过约束特征与 Logits 的演变一致性抑制“死记硬背”，提升推理稳定性。
 * **One-Pass LLM: From-Scratch Pre-training and SFT with Adaptive Gradient Modulation**
   * 引入自适应梯度调节机制，实现从零预训练与 SFT 同步进行的高效单次训练方案。
 * **Memory-Efficient LLM Training**
@@ -44,8 +44,8 @@ I work across **Stable Diffusion**, **inference acceleration**, **training stabi
   * 基于 PyTorch 框架从零构建大语言模型架构。
 
 ### 🎨 生成式 AI 与架构优化 (Generative AI & Architecture)
-* **Training-Free Universal High-Resolution Synthesis for Any Video Model**
-  * 适用于各类视频模型的免训练通用超分辨率合成技术。
+* **Training-Free Universal High-Resolution Synthesis for Any Vision Model**
+  * 适用于各类视觉模型的免训练通用超分辨率合成技术。
 * **FLUX.1 FP16 Inference Deployment + Low-Memory LoRA Training**
   * FLUX.1 模型全链路部署与低显存 LoRA 训练优化。
 * **Stable Diffusion Architectural Distillation**
