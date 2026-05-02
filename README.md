@@ -31,6 +31,14 @@ I work across **Stable Diffusion**, **inference acceleration**, **training stabi
 
 主要研究领域：**大语言模型 (LLM)**、**生成式 AI**、**训练稳定性**、**推理加速**及**音视频算法**。
 
+### 🧪 Current Research / WIP (正在进行中)
+* **Robust Diffusion Distillation: Achieving High-Fidelity Few-Step Generation**
+    * **核心研究**：探索更加稳健的蒸馏方案，通过优化采样轨迹的收敛性，实现在极低 **NFE (4-8 steps)** 下的生产级输出。
+    * **攻坚痛点**：针对性解决蒸馏模型常见的**结构性伪影 (Artifacts)** 与**饱和度偏移 (Saturation Shift)**。
+    * *Focusing on **robust distillation** by improving **sampling trajectory convergence**. Aiming for high-fidelity synthesis within **4-8 NFE** while effectively mitigating common distillation issues like **structural artifacts** and **color/saturation drift**.*
+
+---
+
 ### 🧠 大语言模型与逻辑建模 (LLMs & Reasoning)
 * **Efficient Semi-supervised Learning via Structural Regularization for Consistent Reasoning in LLMs**
   * 基于半监督结构性正则化，通过约束特征与 Logits 的演变一致性抑制“死记硬背”，提升推理稳定性。
