@@ -64,9 +64,9 @@ I work across **Stable Diffusion**, **inference acceleration**, **training stabi
   * 基于扩散模型的超分辨率重构与视频编辑方案。
 * **Porting SDXL 1.0, SD X4 Upscaler, PromptGen to TensorFlow/ONNX (FP16 Support)**
   * 跨框架移植 SD 核心模型并实现针对 FP16 的性能优化。
-* **Robust Diffusion Distillation: Achieving High-Fidelity Few-Step Generation**
-  * 稳健的蒸馏方案，通过优化采样轨迹的收敛性，实现在极低步数下的生产级输出。
-
+* **Robust Diffusion Distillation: Achieving High-Fidelity Few-Step Image Generation**
+  * 稳健的图像扩散蒸馏方案，通过优化采样轨迹的收敛性，实现在极低步数下的生产级高精细图像输出。
+  
 ### ⚡ 训练优化、稳定性与底层正则 (Optimization & Stability)
 * **Robustness and Speed: An Adaptive, Efficient Optimizer for Stable Training**
   * 全能型高效优化器：集成免学习率/预热、梯度累积纠正及长尾梯度缓解等特性。
