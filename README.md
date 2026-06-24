@@ -31,11 +31,12 @@ I work across **Stable Diffusion**, **inference acceleration**, **training stabi
 
 主要研究领域：**大语言模型 (LLM)**、**生成式 AI**、**训练稳定性**、**推理加速**及**音视频算法**。
 
-### 🧪 Current Research / WIP (正在进行中)
-* **Robust Video Diffusion Distillation: Achieving High-Fidelity Few-Step Generation**
-    * **核心研究**：探索稳健的视频扩散蒸馏方案，通过提升时空一致性约束，实现在**极低步数 (Extreme Few-Step NFE)** 下的超高质量视频输出。
-    * **攻坚痛点**：攻克步数压缩带来的**时序闪烁 (Temporal Flickering)**、**动态物体结构伪影 (Dynamic Object Artifacts)** 及**跨帧饱和度偏移**。
-    * *Focusing on **robust video distillation** by enhancing **spatio-temporal consistency constraints**. Aiming for high-fidelity video production within **extreme few-step NFE** while overcoming **temporal flickering**, **dynamic object artifacts**, and **cross-frame color/saturation drift**.*
+### 🧪 Current Research / WIP (正在进行中)  
+
+#### 🚀 **High-Performance Video Diffusion: Training & Inference Acceleration**
+* **核心研究**：构建大规模视频扩散模型的高性能框架，利用**多维并行策略**提升训练吞吐，结合**算子融合与图优化**实现极致推理。
+* **技术攻坚**：攻克视频生成中的**显存溢出 (Memory Wall)**、**分布式通信瓶颈**及复杂 Attention 的**推理延迟**。
+* **Key Focus**: **Scalable Training** (3D Parallelism), **Inference Acceleration** (Kernel Fusion), and overcoming **Memory/Bandwidth bottlenecks** for long-video synthesis.
 
 ---
 
@@ -64,8 +65,8 @@ I work across **Stable Diffusion**, **inference acceleration**, **training stabi
   * 基于扩散模型的超分辨率重构与视频编辑方案。
 * **Porting SDXL 1.0, SD X4 Upscaler, PromptGen to TensorFlow/ONNX (FP16 Support)**
   * 跨框架移植 SD 核心模型并实现针对 FP16 的性能优化。
-* **Robust Diffusion Distillation: Achieving High-Fidelity Few-Step Image Generation**
-  * 稳健的图像扩散蒸馏方案，通过优化采样轨迹的收敛性，实现在极低步数下的生产级高精细图像输出。
+* **Robust Diffusion Distillation: Achieving High-Fidelity Few-Step Image and Video Generation**
+  * 稳健的视觉扩散蒸馏方案，通过优化采样轨迹的收敛性，实现在极低步数下，图像与视频动态内容的生产级高精细输出。
   
 ### ⚡ 训练优化、稳定性与底层正则 (Optimization & Stability)
 * **Robustness and Speed: An Adaptive, Efficient Optimizer for Stable Training**
